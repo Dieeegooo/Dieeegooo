@@ -61,7 +61,7 @@
 ### 🗺️ Il mio percorso verso lo stage
 
 ```text
-✅  2025 — Diploma scientifico (Liceo Parentucelli-Arzelà)
+✅  2025 — Diploma Agrario (Parentucelli-Arzelà)
 ✅  Ott 2025 — Inizio ITS Prodigi: Full Stack Developer & Integrator II
 🔄  In corso — Java, JavaScript/TypeScript, HTML/CSS, SQL, Spring, React, Node
 📅  Lug 2026 — Fine parte teorica del corso
