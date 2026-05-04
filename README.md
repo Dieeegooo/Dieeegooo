@@ -11,8 +11,9 @@
 ### 👨‍💻 Su di me
 
 - 🎓 Studio presso **ITS Academy Prodigi** — corso *Full Stack Developer & Integrator II* (sede Pisa Copernico)
+- 📚 Corso **attualmente in svolgimento**: tutte le materie e le tecnologie elencate qui sotto verranno completate **entro agosto 2026**
 - 🗓️ Diploma previsto: **Giugno 2027** — fine parte teorica del corso: **Luglio 2026**
-- 🌱 Sto approfondendo **Java + Spring Boot** (il mio stack preferito) e l'architettura delle applicazioni backend
+- 🌱 Sto approfondendo **Java + Spring Boot** e l'architettura delle applicazioni backend
 - 💼 In cerca di un'opportunità di **stage** a partire da **Novembre 2026**
 - 🎾 Sport agonistico (tennis, beach tennis, karate): la disciplina l'ho portata nel codice
 - 📫 **dieegobarbagallo@gmail.com**
@@ -60,12 +61,16 @@
 ### 📊 Le mie statistiche GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dieeegooo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieeegooo&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <a href="https://github.com/Dieeegooo">
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dieeegooo&show_icons=true&hide_border=true&title_color=2E5496&icon_color=2E5496&text_color=333&bg_color=ffffff&cache_seconds=1800" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/Dieeegooo">
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dieeegooo&layout=compact&hide_border=true&title_color=2E5496&text_color=333&bg_color=ffffff&langs_count=8&cache_seconds=1800" alt="Top languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dieeegooo&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Dieeegooo&hide_border=true&ring=2E5496&fire=2E5496&currStreakLabel=2E5496" alt="GitHub Streak" />
 </p>
 
 ---
