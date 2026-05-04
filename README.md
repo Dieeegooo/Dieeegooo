@@ -81,12 +81,6 @@
 
 ---
 
-### 📌 Progetti in evidenza
-
-> 👇 Trovi i progetti pinnati qui sotto, in fondo a questa pagina.
-
----
-
 ### 📫 Come contattarmi
 
 <p>
