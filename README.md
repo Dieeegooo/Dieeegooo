@@ -63,7 +63,7 @@
 ```text
 ✅  2025 — Diploma Agrario (Parentucelli-Arzelà)
 ✅  Ott 2025 — Inizio ITS Prodigi: Full Stack Developer & Integrator II
-🔄  In corso — Java, JavaScript/TypeScript, HTML/CSS, SQL, Spring, React, Node
+🔄  In corso — Java, JavaScript/TypeScript, HTML/CSS, SQL, Spring, React, Node, Python
 📅  Lug 2026 — Fine parte teorica del corso
 🎯  Nov 2026 — Stage in azienda
 🏁  Giu 2027 — Diploma ITS
