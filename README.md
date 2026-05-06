@@ -1,6 +1,6 @@
 <h1 align="center">Ciao, sono Diego Barbagallo 👋</h1>
 
-<h3 align="center">Studente ITS Full Stack Developer & Integrator II — alla ricerca del primo stage</h3>
+<h3 align="center">Studente ITS Full Stack Developer— alla ricerca del primo stage</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=600&color=2E5496&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+enthusiast;Full+Stack+Web+Developer+in+training;Building+things+to+learn+by+doing" alt="Typing SVG" />
