@@ -4,7 +4,7 @@
 <h3 align="center">Studente ITS Full Stack Developer — alla ricerca del primo stage</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=600&color=2E5496&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+enthusiast;Full+Stack+Web+Developer+in+training;Building+things+to+learn+by+doing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=600&color=2E5496&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+in+training;Back-end+%26+Front-end+enthusiast;Building+things+to+learn+by+doing" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 - 🎓 Studio presso **ITS Academy Prodigi** — corso *Full Stack Developer & Integrator II* (sede Pisa Copernico)
 - 📚 Corso **attualmente in svolgimento**: tutte le materie e le tecnologie elencate qui sotto verranno completate **entro agosto 2026**
 - 🗓️ Fine parte teorica: **Luglio 2026** · Diploma previsto: **Giugno 2027**
-- 🌱 Sto approfondendo **Java + Spring Boot** e l'architettura delle applicazioni backend
+- 🌱 Sto approfondendo lo sviluppo **full stack** e l'architettura delle applicazioni web
 - 💼 In cerca di un'opportunità di **stage** a partire da **Novembre 2026**
 - 🎾 Sport agonistico (tennis, beach tennis, karate): la disciplina l'ho portata nel codice
 - 📫 **dieegobarbagallo@gmail.com**
@@ -84,26 +84,34 @@ timeline
 <!-- ====== FOCUS ATTUALE ====== -->
 ## 🎯 Cosa sto facendo ora
 
-- 🔥 Approfondendo **Java + Spring Boot** per costruire API REST robuste e scalabili
-- 🌐 Consolidando **JavaScript / Node.js / Express** sul lato back-end
+- 🔥 Costruendo **API REST** robuste e scalabili lato back-end
+- 🌐 Consolidando **JavaScript / Node.js / Express**
 - ⚛️ Studiando **React** per il front-end e aprendomi a **React Native** per il mobile
 - 🐳 Imparando **Docker** e i principi di base del DevOps
 - 🧪 Costruendo piccoli progetti dopo ogni argomento, per imparare facendo
 
-<!-- ====== STATS ====== -->
-## 📊 Le mie statistiche GitHub
+<!-- ====== SEPARATORE ====== -->
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dieeegooo&show_icons=true&theme=default&title_color=2E5496&icon_color=61DAFB&hide_border=true" alt="GitHub Stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieeegooo&layout=compact&theme=default&title_color=2E5496&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dieeegooo&theme=default&ring=2E5496&fire=61DAFB&currStreakLabel=2E5496&hide_border=true" alt="GitHub Streak" />
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love" />
+  <img src="https://forthebadge.com/images/badges/made-with-java.svg" alt="made with java" />
 </p>
 
 <!-- ====== CONTATTI ====== -->
 ## 📫 Come contattarmi
+
+<p align="center">
+  <a href="mailto:dieegobarbagallo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Dieeegooo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<br>
+
 <p align="center"><i>"Code every day to get a little better."</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:2E5496&height=120&section=footer" alt="footer" />
