@@ -104,18 +104,6 @@ timeline
 
 <!-- ====== CONTATTI ====== -->
 ## 📫 Come contattarmi
-
-<p align="center">
-  <a href="mailto:dieegobarbagallo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Dieeegooo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<br>
-
 <p align="center"><i>"Code every day to get a little better."</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:2E5496&height=120&section=footer" alt="footer" />
