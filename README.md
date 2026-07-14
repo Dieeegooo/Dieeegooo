@@ -1,26 +1,37 @@
-<h1 align="center">Ciao, sono Diego Barbagallo 👋</h1>
+<!-- ====== HEADER ====== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5496,100:61DAFB&height=200&section=header&text=Ciao,%20sono%20Diego%20Barbagallo%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
 
-<h3 align="center">Studente ITS Full Stack Developer— alla ricerca del primo stage</h3>
+<h3 align="center">Studente ITS Full Stack Developer — alla ricerca del primo stage</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=600&color=2E5496&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+enthusiast;Full+Stack+Web+Developer+in+training;Building+things+to+learn+by+doing" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <a href="mailto:dieegobarbagallo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Dieeegooo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Dieeegooo&label=Visite%20al%20profilo&color=2E5496&style=for-the-badge" alt="Profile views" />
+</p>
 
-### 👨‍💻 Su di me
+<br>
+
+<!-- ====== SU DI ME ====== -->
+## 👨‍💻 Su di me
+
+<img align="right" width="300" src="https://cdn.jsdelivr.net/gh/ThomasFarve/ThomasFarve/coding.gif" alt="coding" />
 
 - 🎓 Studio presso **ITS Academy Prodigi** — corso *Full Stack Developer & Integrator II* (sede Pisa Copernico)
 - 📚 Corso **attualmente in svolgimento**: tutte le materie e le tecnologie elencate qui sotto verranno completate **entro agosto 2026**
-- 🗓️ Diploma previsto: **Giugno 2027** — fine parte teorica del corso: **Luglio 2026**
+- 🗓️ Fine parte teorica: **Luglio 2026** · Diploma previsto: **Giugno 2027**
 - 🌱 Sto approfondendo **Java + Spring Boot** e l'architettura delle applicazioni backend
 - 💼 In cerca di un'opportunità di **stage** a partire da **Novembre 2026**
 - 🎾 Sport agonistico (tennis, beach tennis, karate): la disciplina l'ho portata nel codice
 - 📫 **dieegobarbagallo@gmail.com**
 
----
+<br clear="right">
 
-### 🛠️ Tech Stack
+<!-- ====== TECH STACK ====== -->
+## 🛠️ Tech Stack
 
 **Linguaggi**
 
@@ -56,22 +67,22 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
----
+<!-- ====== ROADMAP ====== -->
+## 🗺️ Il mio percorso verso lo stage
 
-### 🗺️ Il mio percorso verso lo stage
-
-```text
-✅  2025 — Diploma Agrario (Parentucelli-Arzelà)
-✅  Ott 2025 — Inizio ITS Prodigi: Full Stack Developer & Integrator II
-🔄  In corso — Java, JavaScript/TypeScript, HTML/CSS, SQL, Spring, React, Node, Python
-📅  Lug 2026 — Fine parte teorica del corso
-🎯  Nov 2026 — Stage in azienda
-🏁  Giu 2027 — Diploma ITS
+```mermaid
+timeline
+    title Percorso ITS
+    2025 : Diploma Agrario (Parentucelli-Arzelà)
+    Ott 2025 : Inizio ITS Prodigi - Full Stack Developer & Integrator II
+    In corso : Java, JS/TS, HTML/CSS, SQL, Spring, React, Node, Python
+    Lug 2026 : Fine parte teorica del corso
+    Nov 2026 : Stage in azienda
+    Giu 2027 : Diploma ITS
 ```
 
----
-
-### 🎯 Cosa sto facendo ora
+<!-- ====== FOCUS ATTUALE ====== -->
+## 🎯 Cosa sto facendo ora
 
 - 🔥 Approfondendo **Java + Spring Boot** per costruire API REST robuste e scalabili
 - 🌐 Consolidando **JavaScript / Node.js / Express** sul lato back-end
@@ -79,11 +90,22 @@
 - 🐳 Imparando **Docker** e i principi di base del DevOps
 - 🧪 Costruendo piccoli progetti dopo ogni argomento, per imparare facendo
 
----
+<!-- ====== STATS ====== -->
+## 📊 Le mie statistiche GitHub
 
-### 📫 Come contattarmi
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dieeegooo&show_icons=true&theme=default&title_color=2E5496&icon_color=61DAFB&hide_border=true" alt="GitHub Stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieeegooo&layout=compact&theme=default&title_color=2E5496&hide_border=true" alt="Top Languages" />
+</p>
 
-<p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dieeegooo&theme=default&ring=2E5496&fire=61DAFB&currStreakLabel=2E5496&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- ====== CONTATTI ====== -->
+## 📫 Come contattarmi
+
+<p align="center">
   <a href="mailto:dieegobarbagallo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -92,10 +114,8 @@
   </a>
 </p>
 
----
+<br>
 
 <p align="center"><i>"Code every day to get a little better."</i></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dieeegooo&label=Visite%20al%20profilo&color=2E5496&style=flat-square" alt="Profile views" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:2E5496&height=120&section=footer" alt="footer" />
